@@ -4,7 +4,7 @@
 
 <p align="center"
   
-![](https://komarev.com/ghpvc/?username=silentsaltcookie&color=00c7e6&label=fans+;-;)
+![](https://komarev.com/ghpvc/?username=silentsaltcookie&color=00c7e6&label=heals)
 
 
 <p align="center">
